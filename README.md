@@ -14,5 +14,5 @@ Most of these are practiced consistently in the (hope) I'll remember how to do t
 ## Exams
 
 ### Exam 1
-- Level 0 - [Union]https://github.com/hopelucas/42-Exam/blob/master/Level%200/Union/union.c, [Inter]https://github.com/hopelucas/42-Exam/blob/master/Level%200/Inter/inter.c
+- Level 0 - [Union](https://github.com/hopelucas/42-Exam/blob/master/Level%200/Union/union.c), [Inter](https://github.com/hopelucas/42-Exam/blob/master/Level%200/Inter/inter.c)
 - Level 1 - Printf, Get_Next_line
