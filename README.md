@@ -14,5 +14,5 @@ Most of these are practiced consistently in the (hope) I'll remember how to do t
 ## Exams
 
 ### Exam 1
-Level 0 - Union, Inter
-Level 1 - Printf, Get_Next_line
+- Level 0 - Union, Inter
+- Level 1 - Printf, Get_Next_line
